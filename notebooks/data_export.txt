@@ -1,0 +1,4 @@
+b	c	d	e
+3	5.0	horse	13.0
+1	1.4	cat	11.0
+2	2.3	rabbit	9.0
